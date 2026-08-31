@@ -9,6 +9,11 @@ Aloca automaticamente equipes de ~7.000 funcionários distribuídos em um prédi
 intervenção humana — não apenas "gerar qualquer alocação", mas produzir uma decisão
 justificável e auditável.
 
+## Autores
+
+- Anderson Gabriel
+- Thayna Carnauba
+
 ## Stack
 
 | Camada | Tecnologia |
